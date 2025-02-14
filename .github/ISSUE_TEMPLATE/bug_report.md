@@ -2,7 +2,7 @@
 name: Bug report
 about: Report an issue with the Skyrim AI Companion Mod
 title: "[BUG]"
-labels: bug
+labels: bug, enhancement
 assignees: ''
 
 ---

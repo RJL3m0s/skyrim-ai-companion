@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: Bug report
 about: Report an issue with the Skyrim AI Companion Mod
-title: ''
-labels: enhancement
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---

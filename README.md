@@ -35,7 +35,7 @@ This project aims to create an advanced AI-powered companion for Skyrim using mo
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB/skyrim-ai-companion.git
+   git clone https://github.com/RJL3m0s/skyrim-ai-companion.git
    ```
 2. Install dependencies (Python & SKSE plugin tools).
 3. Run the SKSE plugin to extract game state.
